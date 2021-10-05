@@ -1,0 +1,26 @@
+rm local/templates/main/components/gpm/complex/bonus_program/gpm/template.block/bonus/result_modifier.php
+rm local/templates/main/components/gpm/complex/messages/gpm/template.block/aside_add/result_modifier.php
+rm local/templates/main/components/gpm/complex/my_comments/gpm/iblock.items/.default/result_modifier.php
+rm local/templates/main/components/gpm/complex/my_organizations/gpm/template.block/arfilter_partnership/result_modifier.php
+rm local/templates/main/components/gpm/complex/my_organizations/gpm/template.block/menu/result_modifier.php
+rm local/templates/main/components/gpm/complex/organizations/gpm/template.block/menu/result_modifier.php
+rm local/templates/main/components/gpm/complex/users/gpm/template.block/top/result_modifier.php
+rm local/templates/main/components/gpm/complex/users/gpm/template.block/user_card/result_modifier.php
+rm local/templates/main/components/gpm/iblock.items/achievement-list/result_modifier.php
+rm local/templates/main/components/gpm/iblock.items/organizations-recently-page/template.php
+rm local/templates/main/components/gpm/iblock.items/organizations/result_modifier.php
+rm local/templates/main/components/gpm/iblock.items/organizations_requests/result_modifier.php
+rm local/templates/main/components/gpm/iblock.items/other_reviews/result_modifier.php
+rm local/templates/main/components/gpm/iblock.items/partners/result_modifier.php
+rm local/templates/main/components/gpm/iblock.items/recent-reviews-main/template.php
+rm local/templates/main/components/gpm/iblock.items/responses_to_reviews/result_modifier.php
+rm local/templates/main/components/gpm/iblock.items/responses_to_reviews/template.twig
+rm local/templates/main/components/gpm/iblock.items/reviews/result_modifier.php
+rm local/templates/main/components/gpm/iblock.items/user-comments/result_modifier.php
+rm local/templates/main/components/gpm/iblock.items/users_requests/result_modifier.php
+rm local/templates/main/components/gpm/template.block/detail/result_modifier.php
+rm local/templates/main/components/gpm/template.block/detail_company_reviews/result_modifier.php
+rm local/templates/main/components/gpm/template.block/head_card/result_modifier.php
+rm local/templates/main/components/gpm/template.block/office-info/result_modifier.php
+
+
