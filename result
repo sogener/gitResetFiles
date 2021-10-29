@@ -1,26 +1,27 @@
-rm local/templates/main/components/gpm/complex/bonus_program/gpm/template.block/bonus/result_modifier.php
-rm local/templates/main/components/gpm/complex/messages/gpm/template.block/aside_add/result_modifier.php
-rm local/templates/main/components/gpm/complex/my_comments/gpm/iblock.items/.default/result_modifier.php
-rm local/templates/main/components/gpm/complex/my_organizations/gpm/template.block/arfilter_partnership/result_modifier.php
-rm local/templates/main/components/gpm/complex/my_organizations/gpm/template.block/menu/result_modifier.php
-rm local/templates/main/components/gpm/complex/organizations/gpm/template.block/menu/result_modifier.php
-rm local/templates/main/components/gpm/complex/users/gpm/template.block/top/result_modifier.php
-rm local/templates/main/components/gpm/complex/users/gpm/template.block/user_card/result_modifier.php
-rm local/templates/main/components/gpm/iblock.items/achievement-list/result_modifier.php
-rm local/templates/main/components/gpm/iblock.items/organizations-recently-page/template.php
-rm local/templates/main/components/gpm/iblock.items/organizations/result_modifier.php
-rm local/templates/main/components/gpm/iblock.items/organizations_requests/result_modifier.php
-rm local/templates/main/components/gpm/iblock.items/other_reviews/result_modifier.php
-rm local/templates/main/components/gpm/iblock.items/partners/result_modifier.php
-rm local/templates/main/components/gpm/iblock.items/recent-reviews-main/template.php
-rm local/templates/main/components/gpm/iblock.items/responses_to_reviews/result_modifier.php
-rm local/templates/main/components/gpm/iblock.items/responses_to_reviews/template.twig
-rm local/templates/main/components/gpm/iblock.items/reviews/result_modifier.php
-rm local/templates/main/components/gpm/iblock.items/user-comments/result_modifier.php
-rm local/templates/main/components/gpm/iblock.items/users_requests/result_modifier.php
-rm local/templates/main/components/gpm/template.block/detail/result_modifier.php
-rm local/templates/main/components/gpm/template.block/detail_company_reviews/result_modifier.php
-rm local/templates/main/components/gpm/template.block/head_card/result_modifier.php
-rm local/templates/main/components/gpm/template.block/office-info/result_modifier.php
-
+git branch -d GPNMNENIYA-1695
+git branch -d GPNMNENIYA-1782
+git branch -d GPNMNENIYA-1877
+git branch -d GPNMNENIYA-1944
+git branch -d GPNMNENIYA-1976
+git branch -d GPNMNENIYA-1993
+git branch -d GPNMNENIYA-1994
+git branch -d GPNMNENIYA-1996
+git branch -d GPNMNENIYA-1997
+git branch -d GPNMNENIYA-2011
+git branch -d GPNMNENIYA-2012
+git branch -d GPNMNENIYA-2017
+git branch -d GPNMNENIYA-2030
+git branch -d GPNMNENIYA-2038
+git branch -d GPNMNENIYA-2039
+git branch -d GPNMNENIYA-2055
+git branch -d GPNMNENIYA-2056
+git branch -d GPNMNENIYA-2057
+git branch -d GPNMNENIYA-2058
+git branch -d GPNMNENIYA-2063
+git branch -d GPNMNENIYA-2064
+git branch -d GPNMNENIYA-2065
+git branch -d GPNMNENIYA-2066
+git branch -d GPNMNENIYA-2067
+git branch -d GPNMNENIYA-2068
+git branch -d GPNMNENIYA-2068-2
 
